@@ -60,8 +60,8 @@ dans une base de données **MySQL**, tout en respectant l’architecture **Clien
 
 ##  Vidéo de démonstration
 Lien vers la vidéo :  
-https://drive.google.com/file/d/1giYLr128128dbUTgNW8c2pdULlHQe9jr/view?usp=sharing
-https://drive.google.com/file/d/1E2vOQJpSmvgJ-yXEtJRiBg2GGEx5eIvZ/view?usp=sharing
+https://drive.google.com/file/d/1giYLr128128dbUTgNW8c2pdULlHQe9jr/view?usp=sharing (premier version)
+https://drive.google.com/file/d/1E2vOQJpSmvgJ-yXEtJRiBg2GGEx5eIvZ/view?usp=sharing( ici pour backend ) 
 
 
 ---
