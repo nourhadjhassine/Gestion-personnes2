@@ -13,7 +13,6 @@ import javax.jws.WebService;
 import com.info.config.DB;
 import com.info.model.Person;
 
-@WebService(endpointInterface = "com.info.service.PersonService")
 public class PersonServiceImpl implements PersonService {
 	
 	Connection cn = DB.getConnexion();
@@ -25,7 +24,7 @@ public class PersonServiceImpl implements PersonService {
 	    try {
 	        st = (Statement) cn.createStatement();
 	        st.executeUpdate(sql);
-	        System.out.println("Ajout avec succés");
+	        System.out.println("Ajout avec succÃ©s");
 	        return true;
 	    } catch (Exception e) {
 	        e.printStackTrace();
